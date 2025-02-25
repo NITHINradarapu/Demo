@@ -1,4 +1,4 @@
 # Demo
 This is my first github demo code
 <br>
-Author - Nithin Radarapu
+Author - Nithin Radarapu (Student)
